@@ -1,0 +1,12 @@
+.custom_btn {
+    display: block;
+    width: 180px;
+    padding-top: 14px;
+    padding-bottom: 14px;
+    border: none;
+    cursor: pointer;
+    font-family: "Space Mono", monospace;
+    font-weight: 700;
+    font-size: 15px;
+    color: #fff;
+}

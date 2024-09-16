@@ -1,0 +1,27 @@
+.header {
+    padding-top: 22px;
+    padding-bottom: 21px;
+    padding-left: 169px;
+    padding-right: 165px;
+}
+
+.header-nav {
+    list-style-type: none;
+    gap: 32px;
+    margin-left: 58.18px;
+
+    li {
+        font-family: "Space Mono", monospace;
+        font-weight: 700;
+        font-size: 15px;
+        color: #939CAA;
+
+        a {
+            color: #939CAA;
+
+            &:hover {
+                color: #FCB72B;
+            }
+        }
+    }
+}
