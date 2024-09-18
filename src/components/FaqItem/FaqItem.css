@@ -1,0 +1,22 @@
+.faq-item {
+    width: 730px;
+    padding: 32px 40px;
+    background-color: #F2F5F9;
+}
+
+.faq-item-question {
+    font-family: "Space Mono", monospace;
+    font-weight: 700;
+    font-size: 24px;
+    line-height: 1;
+    letter-spacing: -.0107em;
+    color: #495567;
+}
+
+.faq-item-answer {
+    margin-top: 24px;
+    font-family: "Lexend Deca", system-ui;
+    font-size: 15px;
+    line-height: 1.2;
+    color: #495567;
+}

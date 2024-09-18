@@ -1,15 +1,16 @@
 import React from 'react'
 import './Header.css'
 import CustomButton from '../CustomButton/CustomButton'
+import { Link } from 'react-router-dom'
 
 const Header = () => {
     return (
         <header className='header d-f jc-sb align-center'>
             <div className='d-f align-center'>
-                <div><img src="/images/logo.svg" alt="Logo" /></div>
+                <div> <Link to="/"><img src="/images/logo.svg" alt="Logo" /></Link></div>
                 <nav>
                     <ul className="header-nav d-f">
-                        <li><a href="">About</a></li>
+                        <li><Link to="/about">About</Link></li>
                         <li><a href="">Location</a></li>
                         <li><a href="">Careers</a></li>
                     </ul>
