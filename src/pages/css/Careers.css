@@ -1,0 +1,128 @@
+.careers-main {
+    padding-top: 72px;
+    padding-bottom: 71px;
+    padding-left: 165px;
+    background: url("/public/images/careers-main-bg.png") no-repeat;
+}
+
+.careers-main-title {
+    font-family: "Space Mono", monospace;
+    font-weight: 700;
+    font-size: 56px;
+    line-height: 1;
+    letter-spacing: .025em;
+    color: #fff;
+}
+
+.careers-info  {
+    margin-top: 120px;
+    margin-left: 165px;
+    margin-right: 156px;
+    gap: 220px;
+}
+
+.careers-info-title {
+    width: 454px;
+    font-family: "Space Mono", monospace;
+    font-weight: 700;
+    font-size: 48px;
+    line-height: 1;
+    letter-spacing: -.0214em;
+    color: #495567;
+}
+
+.careers-info-desc {
+    width: 445px;
+    margin-top: 24px;
+    margin-bottom: 40px;
+    font-family: "Lexend Deca", system-ui;
+    font-size: 15px;
+    line-height: 1.2;
+    color: #939CAA;
+}
+
+.careers-info-mask {
+    position: absolute;
+    top: 16px;
+    right: -157px;
+}
+
+.careers-info-path {
+    position: absolute;
+    top: 268px;
+    left: -138px;
+}
+
+.careers-values {
+    margin-top: 120px;
+}
+
+.careers-values-title {
+    font-family: "Space Mono", monospace;
+    font-weight: 700;
+    font-size: 48px;
+    line-height: 1;
+    letter-spacing: -.0214em;
+    text-align: center;
+    color: #495567;
+}
+
+.careers-values-box {
+    margin-top: 48px;
+    margin-left: 165px;
+    margin-right: 165px;
+}
+
+.careers-values-item {
+    width: 350px;
+    padding-top: 37px;
+    text-align: center;
+}
+
+.careers-values-item .values-item-main {
+    position: relative;
+    margin-bottom: 67px;
+}
+
+.careers-values-item .values-item-num {
+    width: 96px;
+    height: 96px;
+    padding-top: 34px;
+    background-color: #FCB72B;
+    border-radius: 100%;
+    font-family: "Space Mono", monospace;
+    font-weight: 700;
+    font-size: 24px;
+    letter-spacing: -.0107em;
+    color: #495567;
+    position: absolute;
+    left: 127px;
+    bottom: -45px;
+}
+
+.careers-values-item .values-item-title {
+    font-family: "Space Mono", monospace;
+    font-weight: 700;
+    font-size: 24px;
+    line-height: 1;
+    letter-spacing: -.0107em;
+    color: #495567;
+}
+
+
+.careers-values .values-item-desc {
+    margin-top: 27px;
+    font-family: "Lexend Deca", system-ui;
+    font-size: 15px;
+    line-height: 1.2;
+    color: #939CAA;
+}
+
+.careers-vacancies {
+    margin-top: 120px;
+    margin-bottom: 160px;
+    margin-left: 165px;
+    margin-right: 165px;
+    flex-direction: column;
+    gap: 24px;
+}

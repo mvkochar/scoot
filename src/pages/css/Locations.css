@@ -1,0 +1,46 @@
+.locations-main {
+    padding-top: 72px;
+    padding-bottom: 71px;
+    padding-left: 165px;
+    background: url("/public/images/locations-main-bg.png") no-repeat;
+}
+
+.locations-main-title {
+    font-family: "Space Mono", monospace;
+    font-weight: 700;
+    font-size: 56px;
+    line-height: 1;
+    letter-spacing: .025em;
+    color: #fff;
+}
+
+.locations-map {
+    width: fit-content;
+    margin: 120px auto;
+    margin-bottom: 0;
+}
+
+.locations-action {
+    margin-top: 120px;
+    margin-bottom: 120px;
+    margin-left: 164px;
+    margin-right: 165px;
+}
+
+.locations-action-title {
+    width: 351px;
+    font-family: "Space Mono", monospace;
+    font-weight: 700;
+    font-size: 48px;
+    line-height: 1;
+    letter-spacing: -.0214em;
+    color: #495567;
+}
+
+.locations-action-desc {
+    width: 445px;
+    font-family: "Lexend Deca", system-ui;
+    font-size: 15px;
+    line-height: 1.2;
+    color: #939CAA;
+}
